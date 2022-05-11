@@ -1,5 +1,5 @@
 # vue-dice-roller
- 3D dice roller made in VueJS
+ 3D dice roller made in VueJS using CSS 3D transforms.
 
  See it in action [here](https://stevennicklin.github.io/vue-dice-roller).
 
