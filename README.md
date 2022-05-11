@@ -1,6 +1,8 @@
 # vue-dice-roller
  3D dice roller made in VueJS
 
+ See it in action [here](https://stevennicklin.github.io/vue-dice-roller).
+
  ## Installation
 
 Install using yarn
